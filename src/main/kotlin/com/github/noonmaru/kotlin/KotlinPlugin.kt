@@ -1,5 +1,5 @@
 package com.github.noonmaru.kotlin
-
+    
 import org.bukkit.plugin.java.JavaPlugin
 
 /**
